@@ -26,7 +26,7 @@ export function App() {
         </p>
       </div>
       <p class="read-the-docs">
-        Click on the Vite and Preact logos to learn more
+        Lalalalala
       </p>
     </>
   )
