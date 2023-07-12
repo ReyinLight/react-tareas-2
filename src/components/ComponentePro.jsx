@@ -11,7 +11,7 @@ export const ComponentePro = () => {
 
   return (
     <>
-      <button onClick={incrementar}>picale aqui~ uwu</button><br />
+      <button onClick={incrementar}>~picale aqui~ uwu</button><br />
       <label> { numero } </label><br />
       <button onClick={() => { setnumero(0) }}>muerele la suma &gt;:c</button><br />
 
